@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718399170 source:d:\c++ codes\mythirdproject\constantobject2.cpp
+	"constantobject2.h"
+	<iostream>
+
+1718399152 d:\c++ codes\mythirdproject\constantobject2.h
+
+1718399220 source:d:\c++ codes\mythirdproject\main.cpp
+	<iostream>
+	"constantobject2.h"
+
