@@ -42,7 +42,7 @@ int main()
         {
             cout<<A[row][col]<<" ";
         }
-        cout<<endl;
+        cout<<endl<<" ";
     }
 
 
